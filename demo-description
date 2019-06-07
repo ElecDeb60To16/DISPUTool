@@ -1,0 +1,24 @@
+This is a demo for our system “DISPUTool”. 
+
+This system provides the users with the ability to explore arguments in the presidential debates in the united states between 1960  until 2016. 
+
+This system uses Natural language processing methods along with Argument mining methods to extract the arguments in these debates.
+
+ Now let’s see the features of this system:
+
+Firstly, it gives the users the option to explore over the 12 years of televised debates. 
+The dataset will show the argument components in debates along with the name of the speaker and the date of the debate.
+
+Users can select any year to explore the arguments  or search the datasets for special topics.
+
+Secondly, We can test the model to identify the argument components in sample texts:
+
+We can provide the sample text from the dataset.
+
+
+Or we can test the model on  some new data sample.
+
+
+The user can also detect the most common named entities used in this debates and filter based on the year of the debate, name of the speaker and type of the named entity.
+
+This system has several basic features such as  exploring arguments and named entities in presidential debates in the US and identifying argument components on provided samples.
